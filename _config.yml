@@ -86,7 +86,7 @@ author:
   location         : "USA"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.tr/citations?user=28aDWKEAAAAJ&hl=en"
   email            : "tolgadincer@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "tdincer"
-  orcid            : "https://orcid.org/0000-0001-8843-3385"
+  orcid            : #"https://orcid.org/0000-0001-8843-3385"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
