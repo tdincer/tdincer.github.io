@@ -5,6 +5,7 @@ permalink: /publication/2019-01-01-paper-title-number-1
 excerpt: ''
 date: 2019-01-01
 venue: 'Monthly Notices of the Astronomical Society'
+authors: 'A. W. Shaw, B. E. Tetarenko, G. Dubus, <b>T. Dinçer</b>, J. A. Tomsick, P. Gandhi, R. M. Plotkin, D. M. Russell'
 paperurl: 'https://academic.oup.com/mnras/article-abstract/482/2/1840/5136429?redirectedFrom=fulltext'
 ---
 
