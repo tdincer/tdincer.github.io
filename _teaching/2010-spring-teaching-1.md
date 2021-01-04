@@ -7,5 +7,3 @@ venue: "Sabanci University"
 date: 2010-01-01
 location: "Istanbul, Turkey"
 ---
-
-I was a teaching assistant for Science of Nature 101 between 2007 and 2010.
