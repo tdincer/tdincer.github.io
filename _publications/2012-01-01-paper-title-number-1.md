@@ -5,6 +5,7 @@ permalink: /publication/2012-01-01-paper-title-number-1
 excerpt: ''
 date: 2012-01-01
 venue: 'The Astronomical Journal'
+authors: 'M.M. Buxton, C.D. Bailyn, H.L. Capelo, R. Chatterjee, T. Dinçer, E. Kalemci, J.A. Tomsick'
 paperurl: 'https://iopscience.iop.org/article/10.1088/0004-6256/143/6/130'
 ---
 
