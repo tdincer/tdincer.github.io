@@ -8,6 +8,5 @@ venue: 'The Astronomical Journal'
 authors: 'M.M. Buxton, C.D. Bailyn, H.L. Capelo, R. Chatterjee, <b>T. Dinçer</b>, E. Kalemci, J.A. Tomsick'
 paperurl: 'https://iopscience.iop.org/article/10.1088/0004-6256/143/6/130'
 ---
-M.M. Buxton, C.D. Bailyn, H.L. Capelo, R. Chatterjee, <b>T. Dinçer</b>, E. Kalemci, J.A. Tomsick
 
 [Download paper here](https://iopscience.iop.org/article/10.1088/0004-6256/143/6/130)
