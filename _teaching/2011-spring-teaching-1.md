@@ -7,5 +7,3 @@ venue: "Sabanci University"
 date: 2011-01-01
 location: "Istanbul, Turkey"
 ---
-
-I was a teaching assistant for the Inside The Milky Way course thought by Prof. Unal Ertan.
