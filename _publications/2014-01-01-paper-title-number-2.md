@@ -5,6 +5,7 @@ permalink: /publication/2014-01-01-paper-title-number-2
 excerpt: ''
 date: 2014-01-01
 venue: 'The Astrophysical Journal'
+authors: '<b>T. Dinçer</b>, E. Kalemci, J. A. Tomsick, M. M. Buxton, C. Bailyn'
 paperurl: 'https://iopscience.iop.org/article/10.1088/0004-637X/795/1/74'
 ---
 
