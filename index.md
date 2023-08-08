@@ -1,8 +1,8 @@
-## Portfolio
+## Selected projects in data science and machine learning
 
 ---
 
-### Category Name 1 
+### Point Source Registration
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
