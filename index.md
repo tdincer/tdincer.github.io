@@ -25,5 +25,13 @@ interested.
 ---
 ### Keypoint Detection
 
-
 ---
+### Electric Vehicle Charging Scheduler
+How much power per hour do you use to charge your EV fleet when the hourly fee of 
+electricity is not flat? In this project, I translate the optimizaiton problem into 
+math and provide the solution only using Scipy!
+
+I also provided a Streamlit App to visualize the solution.
+<img src="images/BillOptimizer.png?raw=true"/>
+
+[View code on Github](https://github.com/tdincer/Electricity-Bill-Optimization)
