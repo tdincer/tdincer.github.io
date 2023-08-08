@@ -5,11 +5,11 @@
 ### Point Source Registration
 
 A fast point-set registration algorithm that is robust to outliers and noise. It matches 
-the points in the provided sets of 2D or 3D point-sets and determines the rotation, 
-scale, and translation terms between the two coordinate systems.
+the points in the provided 3 dimensional sets and determines the rotation, scale, and 
+translation terms between the two coordinate systems.
 
-I developed this algorithm to register the volumetric brain scans of mice so that 
-neuroscientists can track the same cells in different scans.
+I developed this unsupervised machine learning algorithm to register the volumetric 
+brain scans of mice so that neuroscientists can track the same cells in different scans.
 
 I also developed a Streamlit app that allows users to test the algorithm. The 
 Streamlit app sends requests to a Flask app to retrieve the results. While the app is 
@@ -33,6 +33,8 @@ the client's purposes. So I decided to develop my own solution.
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) 
 [![](https://img.shields.io/badge/Albumentations-white?logo=Albumentations)](#)
+
+Link to code coming soon!
 
 ---
 ### Electric Vehicle Charging Scheduler
