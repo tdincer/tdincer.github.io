@@ -11,7 +11,7 @@ scale, and translation terms between the two coordinate systems.
 I developed this algorithm to register the volumetric brain scans of mice so that 
 neuroscientists can track the same cells in different scans.
 
-I have also developed a Streamlit app that allows users to test the algorithm. The 
+I also developed a Streamlit app that allows users to test the algorithm. The 
 Streamlit app sends requests to a Flask app to retrieve the results. While the app is 
 not currently hosted online, I'm available to provide a demonstration for those 
 interested.
@@ -24,7 +24,17 @@ interested.
 [View code on Github]()
 
 ---
-### Keypoint Detection
+### Keypoint Detection with Heatmap Regression
+
+I was getting complaints from my client about the very long training times of a
+popular deep learning package that they were using to identify the keypoints from mice
+in their video recordings. This package was also giving us some headaches because it 
+wasn't easy to implement into our framework. This popular package was an overkill for
+the client's purposes. So I decided to develop my own solution.
+Some context. Keypoint detection has value in neuroscience research. For instance if one
+is interested in isolating the neural signals due to physical activity. They identify
+motion times from the trends in the time series.
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#)
 
@@ -79,6 +89,10 @@ price trends after tuning their parameters with Optuna. For the optimization pha
 harnessed the power of Gekko, a powerful optimization library, to identify the ideal 
 times for battery charging and discharging.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikitlearn)](#) [![](https://img.shields.io/badge/XGBoost-white?logo=XGBoost)](#)
+[![](https://img.shields.io/badge/LightGBM-white?logo=LightGBM)](#)
+[![](https://img.shields.io/badge/Optuna-white?logo=Optuna)](#)
+
 
 [View code on Github](https://github.com/tdincer/PPChallenge)
