@@ -30,7 +30,6 @@ in their video recordings. This package was also giving us some headaches becaus
 wasn't easy to implement into our framework. This popular package was an overkill for
 the client's purposes. So I decided to develop my own solution.
 
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) 
 [![](https://img.shields.io/badge/Albumentations-white?logo=Albumentations)](#)
