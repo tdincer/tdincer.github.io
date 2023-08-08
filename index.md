@@ -32,12 +32,22 @@ interested.
 
 ---
 ### Electric Vehicle Charging Scheduler
-How much power per hour do you use to charge your EV fleet when the hourly fee of 
-electricity is not flat? In this project, I translate the optimization problem into 
-math and provide the solution only using Scipy!
 
-I also developed a Streamlit App for manual entry of input parameters, and visualization 
-of the outputs.
+When the cost of electricity varies by the hour, determining how much power to allocate 
+for charging an electric vehicle (EV) fleet becomes a complex optimization challenge. 
+In this project, as part of a job interview challenge, I took this intricate problem and
+translated it into a mathematical framework, offering a solution leveraging the 
+capabilities of Scipy.
+
+To enhance the accessibility of the solution, I developed a Streamlit App. This 
+interactive tool not only showcases the optimized charging strategy but also provides a 
+visual representation of how the solution adapts to various input parameters. Through 
+this app, the complex optimization becomes understandable and user-friendly, helping 
+stakeholders make informed decisions about managing their EV fleet charging effectively.
+
+Overall, this project demonstrates the power of mathematical modeling, Scipy, and 
+user-centric design in solving real-world challenges like optimizing EV charging 
+schedules in a dynamic pricing environment.
 
 <img src="images/BillOptimizer.png?raw=true"/>
 
