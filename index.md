@@ -8,7 +8,7 @@ A fast point-set registration algorithm that is robust to outliers and noise. It
 the points in the provided sets of 2D or 3D point-sets and determines the rotation, 
 scale, and translation terms between the two coordinate systems.
 
-I developed this project to register the volumetric brain scans of mice so that 
+I developed this algorithm to register the volumetric brain scans of mice so that 
 neuroscientists can track the same cells in different measurements.
 
 I have also developed a Streamlit app that allows users to test the algorithm. The 
