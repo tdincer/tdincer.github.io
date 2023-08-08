@@ -12,8 +12,8 @@ I developed this project to register the volumetric brain scans of mice so that
 neuroscientists can track the same cells in different measurements.
 
 I have also prepared a streamlit app that allows users to test the algorithm. The 
-streamlit app sends requests to a flask app to get the results. The app is not serve 
-anywhere at the moment but I can demo the application for those interested.
+streamlit app sends requests to a flask app to get the results. The app is not served 
+online at the moment but I can demonstrate the application for those interested.
 
 <img src="images/registration.png?raw=true"/>
 
