@@ -29,9 +29,6 @@ popular deep learning package that they were using to identify the keypoints fro
 in their video recordings. This package was also giving us some headaches because it 
 wasn't easy to implement into our framework. This popular package was an overkill for
 the client's purposes. So I decided to develop my own solution.
-Some context. Keypoint detection has value in neuroscience research. For instance if one
-is interested in isolating the neural signals due to physical activity. They identify
-motion times from the trends in the time series.
 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
