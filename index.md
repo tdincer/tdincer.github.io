@@ -4,16 +4,17 @@
 
 ### Point Source Registration
 
-A fast pointset registration algorithm that is robust to outliers and noise. It matches 
-the given two sets of 2D or 3D point sets and finds the rotation, scale, and translation 
-terms between the two coordinate systems.
+A fast point-set registration algorithm that is robust to outliers and noise. It matches 
+the points in the provided sets of 2D or 3D point-sets and determines the rotation, 
+scale, and translation terms between the two coordinate systems.
 
 I developed this project to register the volumetric brain scans of mice so that 
 neuroscientists can track the same cells in different measurements.
 
-I have also prepared a streamlit app that allows users to test the algorithm. The 
-streamlit app sends requests to a flask app to get the results. The app is not served 
-online at the moment but I can demonstrate the application for those interested.
+I have also developed a Streamlit app that allows users to test the algorithm. The 
+Streamlit app sends requests to a Flask app to retrieve the results. While the app is 
+not currently hosted online, I'm available to provide a demonstration for those 
+interested.
 
 <img src="images/registration.png?raw=true"/>
 
@@ -23,4 +24,6 @@ online at the moment but I can demonstrate the application for those interested.
 
 ---
 ### Keypoint Detection
+
+
 ---
